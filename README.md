@@ -7,6 +7,7 @@ Claude Code plugin marketplace by nagisanzenin.
 | Plugin | Description |
 |--------|-------------|
 | **product-manager** | AI Product Manager — interviews stakeholders, writes BRDs/PRDs, verifies engineering implementation |
+| **skill-maker** | Creates new skills and plugins end-to-end: interviews, writes SKILL.md, packages, creates repo, adds to marketplace |
 
 ## Installation
 
