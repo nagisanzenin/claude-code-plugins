@@ -4,7 +4,7 @@
     "name": "Quan Duong"
   },
   "metadata": {
-    "description": "Claude Code plugins by nagisanzenin — AI workflow tools",
+    "description": "Claude Code plugins by nagisanzenin — production-grade AI workflow skills",
     "homepage": "https://github.com/nagisanzenin"
   },
   "plugins": [
@@ -12,7 +12,7 @@
       "name": "product-manager",
       "source": {
         "source": "github",
-        "repo": "nagisanzenin/product-manager-plugin"
+        "repo": "nagisanzenin/claude-code-product-manager-plugin"
       },
       "description": "AI Product Manager: interviews stakeholders, writes BRDs/PRDs, and autonomously verifies engineering implementation against business requirements",
       "version": "1.0.0"
@@ -21,7 +21,7 @@
       "name": "skill-maker",
       "source": {
         "source": "github",
-        "repo": "nagisanzenin/skill-maker-plugin"
+        "repo": "nagisanzenin/claude-code-skill-maker-plugin"
       },
       "description": "Creates new Claude Code skills and plugins end-to-end: interviews, writes SKILL.md, packages as plugin, creates repo, adds to marketplace",
       "version": "1.0.0"
@@ -30,7 +30,7 @@
       "name": "solution-architect",
       "source": {
         "source": "github",
-        "repo": "nagisanzenin/solution-architect-plugin"
+        "repo": "nagisanzenin/claude-code-solution-architect-plugin"
       },
       "description": "Full architecture pipeline for SaaS: requirements, system design, tech stack, API contracts, data models, and scaffolding for AWS/GCP/Azure",
       "version": "1.0.0"
@@ -39,7 +39,7 @@
       "name": "devops",
       "source": {
         "source": "github",
-        "repo": "nagisanzenin/devops-plugin"
+        "repo": "nagisanzenin/claude-code-devops-plugin"
       },
       "description": "Full DevOps pipeline: Terraform IaC, CI/CD, Docker/Kubernetes, monitoring/observability, and security for multi-cloud production deployments",
       "version": "1.0.0"
@@ -48,9 +48,9 @@
       "name": "production-grade",
       "source": {
         "source": "github",
-        "repo": "nagisanzenin/production-grade-plugin"
+        "repo": "nagisanzenin/claude-code-production-grade-plugin"
       },
-      "description": "Meta-skill orchestrator: runs Product Manager → Solution Architect → DevOps pipeline to build complete production-ready SaaS",
+      "description": "Meta-skill orchestrator: runs Product Manager → Solution Architect → DevOps → Skill Maker pipeline to build complete production-ready SaaS",
       "version": "1.0.0"
     }
   ]
