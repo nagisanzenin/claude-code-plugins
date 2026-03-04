@@ -25,6 +25,24 @@
       },
       "description": "Creates new Claude Code skills and plugins end-to-end: interviews, writes SKILL.md, packages as plugin, creates repo, adds to marketplace",
       "version": "1.0.0"
+    },
+    {
+      "name": "solution-architect",
+      "source": {
+        "source": "github",
+        "repo": "nagisanzenin/solution-architect-plugin"
+      },
+      "description": "Full architecture pipeline for SaaS: requirements, system design, tech stack, API contracts, data models, and scaffolding for AWS/GCP/Azure",
+      "version": "1.0.0"
+    },
+    {
+      "name": "devops",
+      "source": {
+        "source": "github",
+        "repo": "nagisanzenin/devops-plugin"
+      },
+      "description": "Full DevOps pipeline: Terraform IaC, CI/CD, Docker/Kubernetes, monitoring/observability, and security for multi-cloud production deployments",
+      "version": "1.0.0"
     }
   ]
 }

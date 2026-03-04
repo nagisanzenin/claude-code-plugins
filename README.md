@@ -8,6 +8,8 @@ Claude Code plugin marketplace by nagisanzenin.
 |--------|-------------|
 | **product-manager** | AI Product Manager — interviews stakeholders, writes BRDs/PRDs, verifies engineering implementation |
 | **skill-maker** | Creates new skills and plugins end-to-end: interviews, writes SKILL.md, packages, creates repo, adds to marketplace |
+| **solution-architect** | Full architecture pipeline for SaaS: system design, tech stack, API contracts, data models, scaffolding (AWS/GCP/Azure) |
+| **devops** | Full DevOps pipeline: Terraform IaC, CI/CD, Docker/K8s, monitoring, security for multi-cloud production deployments |
 
 ## Installation
 
