@@ -10,6 +10,7 @@ Claude Code plugin marketplace by nagisanzenin.
 | **skill-maker** | Creates new skills and plugins end-to-end: interviews, writes SKILL.md, packages, creates repo, adds to marketplace |
 | **solution-architect** | Full architecture pipeline for SaaS: system design, tech stack, API contracts, data models, scaffolding (AWS/GCP/Azure) |
 | **devops** | Full DevOps pipeline: Terraform IaC, CI/CD, Docker/K8s, monitoring, security for multi-cloud production deployments |
+| **production-grade** | Meta-skill orchestrator: PM → Architect → DevOps pipeline for complete production-ready SaaS |
 
 ## Installation
 

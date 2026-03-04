@@ -43,6 +43,15 @@
       },
       "description": "Full DevOps pipeline: Terraform IaC, CI/CD, Docker/Kubernetes, monitoring/observability, and security for multi-cloud production deployments",
       "version": "1.0.0"
+    },
+    {
+      "name": "production-grade",
+      "source": {
+        "source": "github",
+        "repo": "nagisanzenin/production-grade-plugin"
+      },
+      "description": "Meta-skill orchestrator: runs Product Manager → Solution Architect → DevOps pipeline to build complete production-ready SaaS",
+      "version": "1.0.0"
     }
   ]
 }
