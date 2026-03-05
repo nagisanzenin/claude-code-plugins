@@ -4,8 +4,8 @@
     "name": "Quan Duong"
   },
   "metadata": {
-    "description": "Claude Code plugins by nagisanzenin — production-grade AI workflow skills",
-    "homepage": "https://github.com/nagisanzenin"
+    "description": "Production Grade Plugin for Claude Code — 14 AI agents, one install, idea to production.",
+    "homepage": "https://github.com/nagisanzenin/claude-code-production-grade-plugin"
   },
   "plugins": [
     {
@@ -14,116 +14,8 @@
         "source": "github",
         "repo": "nagisanzenin/claude-code-production-grade-plugin"
       },
-      "description": "Fully autonomous production-grade SaaS pipeline: 13 bundled skills from PM to DevOps. One install, complete pipeline.",
-      "version": "2.0.0"
-    },
-    {
-      "name": "product-manager",
-      "source": {
-        "source": "github",
-        "repo": "nagisanzenin/claude-code-product-manager-plugin"
-      },
-      "description": "AI Product Manager: interviews stakeholders, writes BRDs/PRDs, and autonomously verifies engineering implementation against business requirements",
-      "version": "1.0.0"
-    },
-    {
-      "name": "solution-architect",
-      "source": {
-        "source": "github",
-        "repo": "nagisanzenin/claude-code-solution-architect-plugin"
-      },
-      "description": "Full architecture pipeline for SaaS: requirements, system design, tech stack, API contracts, data models, and scaffolding for AWS/GCP/Azure",
-      "version": "1.0.0"
-    },
-    {
-      "name": "software-engineer",
-      "source": {
-        "source": "github",
-        "repo": "nagisanzenin/claude-code-software-engineer-plugin"
-      },
-      "description": "Production-grade service implementation with clean architecture, payment integration, and autonomous debugging",
-      "version": "1.0.0"
-    },
-    {
-      "name": "frontend-engineer",
-      "source": {
-        "source": "github",
-        "repo": "nagisanzenin/claude-code-frontend-engineer-plugin"
-      },
-      "description": "Complete frontend pipeline — design system, components, pages, API clients, accessibility (Next.js/Vue/Svelte)",
-      "version": "1.0.0"
-    },
-    {
-      "name": "qa-engineer",
-      "source": {
-        "source": "github",
-        "repo": "nagisanzenin/claude-code-qa-engineer-plugin"
-      },
-      "description": "Comprehensive test suites — unit, integration, contract, e2e, performance, with self-healing test protocols",
-      "version": "1.0.0"
-    },
-    {
-      "name": "security-engineer",
-      "source": {
-        "source": "github",
-        "repo": "nagisanzenin/claude-code-security-engineer-plugin"
-      },
-      "description": "Application security — STRIDE threat modeling, OWASP audit, pen test planning, compliance validation",
-      "version": "1.0.0"
-    },
-    {
-      "name": "code-reviewer",
-      "source": {
-        "source": "github",
-        "repo": "nagisanzenin/claude-code-code-reviewer-plugin"
-      },
-      "description": "Architecture conformance, code quality, security, and performance review with auto-fix capabilities",
-      "version": "1.0.0"
-    },
-    {
-      "name": "devops",
-      "source": {
-        "source": "github",
-        "repo": "nagisanzenin/claude-code-devops-plugin"
-      },
-      "description": "Full DevOps pipeline: Terraform IaC, CI/CD, Docker/Kubernetes, monitoring/observability, and security for multi-cloud production deployments",
-      "version": "1.0.0"
-    },
-    {
-      "name": "sre",
-      "source": {
-        "source": "github",
-        "repo": "nagisanzenin/claude-code-sre-plugin"
-      },
-      "description": "Site reliability — production readiness, chaos engineering, capacity planning, incident management",
-      "version": "1.0.0"
-    },
-    {
-      "name": "data-scientist",
-      "source": {
-        "source": "github",
-        "repo": "nagisanzenin/claude-code-data-scientist-plugin"
-      },
-      "description": "AI/ML/LLM optimization — prompt engineering, token optimization, A/B testing, scientific studies",
-      "version": "1.0.0"
-    },
-    {
-      "name": "technical-writer",
-      "source": {
-        "source": "github",
-        "repo": "nagisanzenin/claude-code-technical-writer-plugin"
-      },
-      "description": "Complete documentation — API reference, dev guides, operational docs, Docusaurus site scaffold",
-      "version": "1.0.0"
-    },
-    {
-      "name": "skill-maker",
-      "source": {
-        "source": "github",
-        "repo": "nagisanzenin/claude-code-skill-maker-plugin"
-      },
-      "description": "Creates new Claude Code skills and plugins end-to-end: interviews, writes SKILL.md, packages as plugin, creates repo, adds to marketplace",
-      "version": "1.0.0"
+      "description": "14 AI agents from idea to production-ready SaaS. Polymath co-pilot, brownfield-safe, auto-update. Includes: PM, Architect, Backend, Frontend, QA, Security, Code Review, DevOps, SRE, Data Scientist, Technical Writer, Skill Maker — all bundled.",
+      "version": "3.3.0"
     }
   ]
 }
