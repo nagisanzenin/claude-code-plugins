@@ -14,8 +14,8 @@
         "source": "github",
         "repo": "nagisanzenin/claude-code-production-grade-plugin"
       },
-      "description": "14 AI agents from idea to production-ready SaaS. Polymath co-pilot, brownfield-safe, auto-update. Includes: PM, Architect, Backend, Frontend, QA, Security, Code Review, DevOps, SRE, Data Scientist, Technical Writer, Skill Maker — all bundled.",
-      "version": "3.3.0"
+      "description": "14 AI agents from idea to production-ready SaaS. 4 engagement modes, scale-driven architecture, quality-first parallelism, Polymath co-pilot, brownfield-safe. Includes: PM, Architect, Backend, Frontend, QA, Security, Code Review, DevOps, SRE, Data Scientist, Technical Writer, Skill Maker — all bundled.",
+      "version": "4.1.0"
     }
   ]
 }
