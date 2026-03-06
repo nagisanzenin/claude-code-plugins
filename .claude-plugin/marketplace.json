@@ -15,7 +15,7 @@
         "repo": "nagisanzenin/claude-code-production-grade-plugin"
       },
       "description": "14 AI agents for all software engineering work. Adaptive routing with 10 execution modes — from full greenfield builds to adding features, code review, testing, hardening, deployment. 4 engagement modes, scale-driven architecture, quality-first parallelism.",
-      "version": "5.1.0"
+      "version": "5.2.0"
     }
   ]
 }
