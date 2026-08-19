@@ -8,7 +8,7 @@ Claude Code plugin marketplace by nagisanzenin.
 
 | Plugin | Version | What's Included |
 |--------|---------|-----------------|
-| **production-grade** | 5.5.2 | Polymath co-pilot, PM, Architect, Backend, Frontend, QA, Security, Code Review, DevOps, SRE, Data Scientist, Technical Writer, Skill Maker, Orchestrator |
+| **production-grade** | 5.6.0 | Polymath co-pilot, PM, Architect, Backend, Frontend, QA, Security, Code Review, DevOps, SRE, Data Scientist, Technical Writer, Skill Maker, Orchestrator |
 
 ## Install
 
