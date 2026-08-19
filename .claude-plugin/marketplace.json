@@ -5,17 +5,17 @@
   },
   "metadata": {
     "description": "Production Grade Plugin for Claude Code — 14 AI agents, one install, idea to production.",
-    "homepage": "https://github.com/nagisanzenin/claude-code-production-grade-plugin"
+    "homepage": "https://github.com/nagisanzenin/production-grade"
   },
   "plugins": [
     {
       "name": "production-grade",
       "source": {
         "source": "github",
-        "repo": "nagisanzenin/claude-code-production-grade-plugin"
+        "repo": "nagisanzenin/production-grade"
       },
       "description": "14 AI agents for all software engineering work. Adaptive routing with 10 execution modes — from full greenfield builds to adding features, code review, testing, hardening, deployment. 4 engagement modes, scale-driven architecture, quality-first parallelism.",
-      "version": "5.6.0"
+      "version": "5.6.1"
     }
   ]
 }

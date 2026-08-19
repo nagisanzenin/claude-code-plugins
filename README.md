@@ -8,7 +8,7 @@ Claude Code plugin marketplace by nagisanzenin.
 
 | Plugin | Version | What's Included |
 |--------|---------|-----------------|
-| **production-grade** | 5.6.0 | Polymath co-pilot, PM, Architect, Backend, Frontend, QA, Security, Code Review, DevOps, SRE, Data Scientist, Technical Writer, Skill Maker, Orchestrator |
+| **production-grade** | 5.6.1 | Polymath co-pilot, PM, Architect, Backend, Frontend, QA, Security, Code Review, DevOps, SRE, Data Scientist, Technical Writer, Skill Maker, Orchestrator |
 
 ## Install
 
@@ -39,4 +39,4 @@ Add to `.claude/settings.json` to auto-install for everyone on the project:
 }
 ```
 
-See [production-grade-plugin](https://github.com/nagisanzenin/claude-code-production-grade-plugin) for full documentation.
+See [production-grade-plugin](https://github.com/nagisanzenin/production-grade) for full documentation.
