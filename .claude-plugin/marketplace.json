@@ -16,6 +16,15 @@
       },
       "description": "14 AI agents for all software engineering work. Adaptive routing with 10 execution modes — from full greenfield builds to adding features, code review, testing, hardening, deployment. 4 engagement modes, scale-driven architecture, quality-first parallelism.",
       "version": "5.6.1"
+    },
+    {
+      "name": "math-first",
+      "source": {
+        "source": "github",
+        "repo": "nagisanzenin/math-first"
+      },
+      "description": "Design discipline for coding agents: name the mathematical object before writing code, make the math the spec, borrow models from the sciences, measure where you are and the null, build the smallest thing that meets the bound, and prove it holds. Includes a stdlib-only exact-statistics CLI.",
+      "version": "0.1.0"
     }
   ]
 }
